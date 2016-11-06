@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="StringProcess.cpp" />
     <ClCompile Include="WinHttpClient.cpp" />
   </ItemGroup>
   <ItemGroup>
