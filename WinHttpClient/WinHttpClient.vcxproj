@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Source.cpp" />
+    <ClCompile Include="RegExp.cpp" />
     <ClCompile Include="StringProcess.cpp" />
     <ClCompile Include="WinHttpClient.cpp" />
   </ItemGroup>
