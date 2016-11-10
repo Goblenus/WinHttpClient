@@ -1,7 +1,7 @@
 #!/bin/bash 
 
 timestamp() {
-  date +"%T"
+  date +"%s"
 }
 
 ./ghr/ghr -t $1 -u Goblenus -r TestReleases timestamp ./Release
